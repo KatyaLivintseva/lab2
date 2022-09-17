@@ -10,3 +10,5 @@
 Ниже приведены результаты программы для чисел 128, 1003 и 256 501
 
 ![image](https://user-images.githubusercontent.com/113354368/190871246-b4ceecd8-d486-42e9-a9b8-9cbdd2f239bb.png)
+![image](https://user-images.githubusercontent.com/113354368/190871277-d4d06815-50c9-469a-981f-abed5022167c.png)
+![image](https://user-images.githubusercontent.com/113354368/190871286-59917f83-83d0-4b01-b3a3-fc7ac3d9d459.png)
