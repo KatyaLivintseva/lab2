@@ -1,3 +1,4 @@
+from timeit import Timer
 tmp = "Python 3.10"
 chislo=input("Введите число от 1 до 999 999 ") chislo = int (chislo)
 
