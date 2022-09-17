@@ -123,3 +123,4 @@ if (19<chislo<100): #20 -> 99
     result = ds+' '+odin+' '+rub
 
 print(result.capitalize())
+
